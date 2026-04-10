@@ -1969,7 +1969,7 @@ div.paginate-container li:nth-last-child(2) a:after {
 
 .card-container {
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     gap: 4px 2px;  /* row gap 24px, column gap 32px */
     flex-wrap: wrap;
     width: 940px; /* 控制最大宽度，2列布局 */
